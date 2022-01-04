@@ -1,4 +1,4 @@
-# Word-Letters-In-A-Tree
+# Visual-Representation-Of-Binary_Search_Tree-Levels
 This is a C project in which the user enters a word and with the help of a binary search tree the program finds and shows the level of each letter,
 the minimum letter and the maximum letter.
 
